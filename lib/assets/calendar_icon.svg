@@ -1,0 +1,19 @@
+<svg width="215" height="200" viewBox="0 0 215 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_1_70" fill="white">
+<path d="M0 8C0 3.58173 3.58172 0 8 0H207C211.418 0 215 3.58172 215 8V175C215 188.807 203.807 200 190 200H25C11.1929 200 0 188.807 0 175V8Z"/>
+</mask>
+<path d="M0 8C0 3.58173 3.58172 0 8 0H207C211.418 0 215 3.58172 215 8V175C215 188.807 203.807 200 190 200H25C11.1929 200 0 188.807 0 175V8Z" stroke="#ADADAD" stroke-width="20" mask="url(#path-1-inside-1_1_70)"/>
+<rect x="25" y="50" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="25" y="20" width="165" height="20" rx="5" fill="#C4C4C4"/>
+<rect x="25" y="95" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="70" y="95" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="115" y="95" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="160" y="95" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="115" y="50" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="160" y="50" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="160" y="140" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="117.5" y="142.5" width="25" height="25" rx="2.5" stroke="#C4C4C4" stroke-width="5"/>
+<rect x="72.5" y="52.5" width="25" height="25" rx="2.5" stroke="#C4C4C4" stroke-width="5"/>
+<rect x="70" y="140" width="30" height="30" rx="5" fill="#C4C4C4"/>
+<rect x="25" y="140" width="30" height="30" rx="5" fill="#C4C4C4"/>
+</svg>
