@@ -6,7 +6,7 @@ class Calendar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        AppLocalizations.of(context).textCalendar,
+        AppLocalizations.of(context)!.textCalendar,
       ),
     );
   }
