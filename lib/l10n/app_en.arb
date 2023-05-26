@@ -1,10 +1,10 @@
 {
-     "textTimeZone": "Time Zone",
-     "@textTimeZone": {
-         "description": "The text for Time Zone"
-     },
-     "textCalendar": "Calendar",
-     "@textCalendar": {
-         "description": "The text for Calendar"
-     }
- }
+    "textTimeZone": "Time Zone",
+    "@textTimeZone": {
+        "description": "The text for Time Zone"
+    },
+    "textCalendar": "Calendar",
+    "@textCalendar": {
+        "description": "The text for Calendar"
+    }
+}

@@ -17,7 +17,7 @@ class Settings extends StatelessWidget {
       initialChildSize: 0.95,
       builder: (_, controller) => Container(
         decoration: BoxDecoration(
-            color: Color.fromRGBO(73, 73, 73, 1.0),
+          color: Color.fromRGBO(73, 73, 73, 1.0),
           borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
         ),
         padding: EdgeInsets.all(16),
