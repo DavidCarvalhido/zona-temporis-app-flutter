@@ -62,15 +62,16 @@ class _NavigationBottomBarState extends State<NavigationBottomBar> {
         fixedColor: Colors.white,
         items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            //-- A app funciona, mas os icones não aparecem
-            icon: SvgPicture.asset('lib/assets/meter_icon.svg'),
-            //icon: Icon(Icons.home),
-            label: '', //sem texto por baixo dos icones no bottom navigation bar
+            icon: SvgPicture.asset('lib/assets/meter_icon.svg',
+              height: 35.0,
+            ),
+            label: '',
           ),
           BottomNavigationBarItem(
-            icon: SvgPicture.asset('lib/assets/calendar_icon.svg'),
-            //icon: Icon(Icons.edit_calendar),
-            label: '', //sem texto por baixo dos icones no bottom navigation bar
+            icon: SvgPicture.asset('lib/assets/calendar_icon.svg',
+              height: 35.0,
+            ),
+            label: '',
           ),
         ],
         currentIndex: _selectedIndex,
